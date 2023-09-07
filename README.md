@@ -9,12 +9,6 @@
 
 - 🔭 I’m currently working on [action_chatbot](https://github.com/pSN0W/textbase)
 
-- 🌱 I’m currently learning **Rust, Deep Learning, Pytorch**
-
-- 👯 I’m looking to collaborate on [ivy](https://github.com/unifyai/ivy)
-
-- 🤝 I’m looking for help with [warehouse_optimization](https://github.com/pSN0W/warehouse-optimisation)
-
 - 👨‍💻 All of my projects are available at [https://github.com/psn0w](https://github.com/psn0w)
 
 - 📝 I sometimes write articles on [https://medium.com/@08yaksh08](https://medium.com/@08yaksh08)
