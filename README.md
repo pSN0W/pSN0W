@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Pratyaksh Singh</h1>
 <h3 align="center">A student of Indian Institute of Information Technology</h3>
 
