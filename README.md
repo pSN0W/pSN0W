@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psnow&label=Profile%20views&color=0e75b6&style=flat" alt="psnow" /> </p>
 
-- 🔭 I’m currently working on [action_chatbot](https://github.com/pSN0W/textbase)
-
 - 👨‍💻 All of my projects are available at [https://github.com/psn0w](https://github.com/psn0w)
 
 - 📝 I sometimes write articles on [https://medium.com/@08yaksh08](https://medium.com/@08yaksh08)
